@@ -1,0 +1,25 @@
+# ninja log v5
+4	31	1752052752519775153	/workspace/out/build/arm64/qtccm_autogen/timestamp	86f12985905f5eb3
+1871	8863	1751621536596184242	CMakeFiles/qtccm.dir/ui/src/BChartView.cpp.o	7cb733102f939eaa
+25	38	0	clean	a31eedcededa8236
+32	2854	1752052755344423473	CMakeFiles/qtccm.dir/hardware/hkcam/src/ImageAcquisitionWorker.cpp.o	7205093ede357bdd
+76	2243	1751890695093343420	CMakeFiles/qtccm.dir/hardware/dm542/src/Dm542Controller.cpp.o	9168049ec6ce9d0a
+463	4917	1751937491770047125	CMakeFiles/qtccm.dir/ui/src/CamContral.cpp.o	20300d6665f64235
+463	4839	1751937491690042417	CMakeFiles/qtccm.dir/qtccm_autogen/mocs_compilation.cpp.o	63d1d036b7a1ced0
+1018	6087	1751632429364732844	CMakeFiles/qtccm.dir/hardware/hkcam/src/GslInterp.cpp.o	ee3a3fe6f7ae2e81
+4	31	1752052752519775153	qtccm_autogen/mocs_compilation.cpp	86f12985905f5eb3
+2855	3451	1752052755935707890	qtccm	da41fee61f8d6f1b
+4	31	1752052752519775153	qtccm_autogen/timestamp	86f12985905f5eb3
+463	4701	1751937491554034412	CMakeFiles/qtccm.dir/main.cpp.o	fcbf7ece9d19add6
+6	119	1751632423388922684	/workspace/out/build/arm64/.qt_plugins/Qt6_QmlPlugins_Imports_qtccm.cmake	84f49c16720fc490
+4	31	1752052752519775153	/workspace/out/build/arm64/qtccm_autogen/mocs_compilation.cpp	86f12985905f5eb3
+6	119	1751632423388922684	.qt_plugins/Qt6_QmlPlugins_Imports_qtccm.cmake	84f49c16720fc490
+2	25	0	CMakeFiles/clean.additional	ef993b15a92b8f11
+40	3642	1752044289848422951	CMakeFiles/qtccm.dir/ui/src/MainWindow.cpp.o	b19ec5384585e23
+36	2880	1752025054142261228	CMakeFiles/qtccm.dir/ui/src/MotorControlTab.cpp.o	8d6b303043a44908
+9	49	1752061165275355051	qtccm_autogen/timestamp	86f12985905f5eb3
+9	49	1752061165275355051	qtccm_autogen/mocs_compilation.cpp	86f12985905f5eb3
+9	49	1752061165275355051	/workspace/out/build/arm64/qtccm_autogen/timestamp	86f12985905f5eb3
+9	49	1752061165275355051	/workspace/out/build/arm64/qtccm_autogen/mocs_compilation.cpp	86f12985905f5eb3
+51	3692	1752061168915553037	CMakeFiles/qtccm.dir/ui/src/MainWindow.cpp.o	b19ec5384585e23
+3692	4525	1752061169747706858	qtccm	da41fee61f8d6f1b

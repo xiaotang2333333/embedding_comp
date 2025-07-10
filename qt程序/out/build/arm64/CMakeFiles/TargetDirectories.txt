@@ -1,0 +1,6 @@
+/workspace/out/build/arm64/CMakeFiles/qtccm.dir
+/workspace/out/build/arm64/CMakeFiles/qtccm_qmlimportscan.dir
+/workspace/out/build/arm64/CMakeFiles/edit_cache.dir
+/workspace/out/build/arm64/CMakeFiles/rebuild_cache.dir
+/workspace/out/build/arm64/CMakeFiles/qtccm_autogen_timestamp_deps.dir
+/workspace/out/build/arm64/CMakeFiles/qtccm_autogen.dir
